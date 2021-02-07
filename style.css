@@ -23,3 +23,37 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.catagories img{
+    width: 100px;
+}
+
+.cat1, .cat2, .cat3{
+    color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cat1{
+    background-color: rgb(212, 144, 33);
+}
+
+.cat2{
+    background-color: rgb(204, 54, 209);
+}
+
+.cat3{
+    background-color:rgb(34, 34, 212);
+}
+
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card-footer {
+    background-color:none;
+    border:none;
+}
